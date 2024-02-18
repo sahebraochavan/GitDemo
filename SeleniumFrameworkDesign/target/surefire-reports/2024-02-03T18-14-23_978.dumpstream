@@ -1,0 +1,5 @@
+# Created at 2024-02-03T18:14:24.348
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Udemy selenium course\04th-May\Selenium class coding4\SeleniumFrameworkDesign\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

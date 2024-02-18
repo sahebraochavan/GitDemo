@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="sahebraochavanautomation.TestComponent.Day43Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Submit order Test(failed)" verbose="0">
+    <classes>
+      <class name="sahebraochavanautomation.Tests.Day37standAloneTest2">
+        <methods>
+          <include name="submitOrder" invocation-numbers="0 1"/>
+          <include name="orderHistoryDisplay"/>
+          <include name="launchApplication"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- sahebraochavanautomation.Tests.Day37standAloneTest2 -->
+    </classes>
+  </test> <!-- Submit order Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
